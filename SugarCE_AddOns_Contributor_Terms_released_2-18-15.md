@@ -27,7 +27,7 @@ SugarCRM reserves the right (but has no obligation) to review, reject or modify 
 (e)transmits worms, viruses or harmful software;
 (f)sends spam or other unwanted messages; or
 (g)discloses personal or proprietary information.
-
+(i)discloses personal or proprietary information.
 ####Termination.
 SugarCRM, in its sole discretion and at any time, may suspend, discontinue or terminate these Terms, the Repository or any part thereof, with or without notice. SugarCRM will not be liable to you or any third party for any of the foregoing actions or for any Application Information that is deleted due to such actions. The following Sections will survive termination of these Terms: Responsibility for Applications, Confidentiality and Indemnity, Termination, Disclaimers and General Terms. In addition, you may request in writing that SugarCRM remove the listing of your Application from the Repository and SugarCRM will comply with such requests. 
 
